@@ -16,5 +16,9 @@ You should then be able to see the preview of the app in action in the simulator
 Some concepts used in the project:
   - States and Props
   - External API calls
-  - Styling in React Native (Background, Flexbox, Platform.OS)
+  - Styling in React Native (Background, Flexbox, Multiple Screens, Platform.OS)
+
+  ![N|Solid](./screenshots/startscreen.png)
+
+    ![N|Solid](./screenshots/quotescreen.png)
 
