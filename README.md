@@ -1,6 +1,6 @@
 # Relaxation Station
 
-![](http://cdn02.androidauthority.net/wp-content/uploads/2016/09/react-native-logo.jpg=100x20)
+![image](http://cdn02.androidauthority.net/wp-content/uploads/2016/09/react-native-logo.jpg)
 
 A React Native application which uses the Andruxnet famous quote API
 
@@ -19,10 +19,10 @@ Some concepts used in the project:
   - Styling in React Native (Background, Flexbox, Multiple Screens, Image Button, Platform.OS)
 
 This is the opening scrren of the app:
-![](./screenshots/startscreen.png=50x80)
+![](./screenshots/startscreen.png)
 
 Users will see a quote fetched from an external API once clicking on the Image Button:
-![](./screenshots/quotescreen.png=50)
+![](./screenshots/quotescreen.png)
 
 Once the "Next Quote" button is pressed, the external API will be called again.
 
