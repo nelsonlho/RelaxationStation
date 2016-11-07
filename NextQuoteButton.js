@@ -9,7 +9,7 @@ class NextQuoteButton extends Component {
 	render() {
 		return (
 			<TouchableOpacity style={styles.button} onPress={this.props.onPress}>
-				<Text style={styles.buttonText}>Next Thought</Text>
+				<Text style={styles.buttonText}>Next Quote</Text>
 			</TouchableOpacity>
 		)
 	}
